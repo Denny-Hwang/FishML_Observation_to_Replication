@@ -1,0 +1,115 @@
+Task: sturgeon
+scorer: SH
+date: Oct10
+multianimalproject: false
+identity: null
+project_path: /home/hwan236/FishML/P0_data/1_Sturgeon/9_DLC/sturgeon-SH-2025-01-03
+video_sets:
+  ? /home/hwan236/FishML/P0_data/1_Sturgeon/9_DLC/sturgeon-SH-2025-01-03/videos/(1024)_RecM03_DST20241018_180345_180545_5328810_3D62239.mp4
+  : crop: 0, 1024, 0, 1024
+  ? /home/hwan236/FishML/P0_data/1_Sturgeon/9_DLC/sturgeon-SH-2025-01-03/videos/(1024)_RecM03_DST20241019_002354_002554_5328890_3D62E81.mp4
+  : crop: 0, 1024, 0, 1024
+  ? /home/hwan236/FishML/P0_data/1_Sturgeon/9_DLC/sturgeon-SH-2025-01-03/videos/(1024)_RecM03_DST20241019_064209_064409_5328810_3D62B14.mp4
+  : crop: 0, 1024, 0, 1024
+  ? /home/hwan236/FishML/P0_data/1_Sturgeon/9_DLC/sturgeon-SH-2025-01-03/videos/(1024)_RecM03_DST20241020_184833_185333_5328810_991D80E.mp4
+  : crop: 0, 1024, 0, 1024
+  ? /home/hwan236/FishML/P0_data/1_Sturgeon/9_DLC/sturgeon-SH-2025-01-03/videos/(1024)_RecM03_DST20241021_093010_093510_5328890_991DEE0.mp4
+  : crop: 0, 1024, 0, 1024
+  ? /home/hwan236/FishML/P0_data/1_Sturgeon/9_DLC/sturgeon-SH-2025-01-03/videos/(1024)_RecM03_DST20241021_201318_201616_5328810_5AFCBBA.mp4
+  : crop: 0, 1024, 0, 1024
+  ? /home/hwan236/FishML/P0_data/1_Sturgeon/9_DLC/sturgeon-SH-2025-01-03/videos/(1024)_RecM03_DST20241023_122308_122808_5328890_991E9BB.mp4
+  : crop: 0, 1024, 0, 1024
+  ? /home/hwan236/FishML/P0_data/1_Sturgeon/9_DLC/sturgeon-SH-2025-01-03/videos/(1024)_RecM03_DST20241026_064805_065005_5328810_3D6273C.mp4
+  : crop: 0, 1024, 0, 1024
+  ? /home/hwan236/FishML/P0_data/1_Sturgeon/9_DLC/sturgeon-SH-2025-01-03/videos/(1024)_RecM03_DST20241028_034603_034803_5328810_3D628C8.mp4
+  : crop: 0, 1024, 0, 1024
+  ? /home/hwan236/FishML/P0_data/1_Sturgeon/9_DLC/sturgeon-SH-2025-01-03/videos/(1024)_RecM03_DST20250531_002201_002401_5328810_3D655D6.mp4
+  : crop: 0, 1024, 0, 1024
+  ? /home/hwan236/FishML/P0_data/1_Sturgeon/9_DLC/sturgeon-SH-2025-01-03/videos/(1024)_RecM03_DST20250531_063008_063208_5328810_3D66CDE.mp4
+  : crop: 0, 1024, 0, 1024
+  ? /home/hwan236/FishML/P0_data/1_Sturgeon/9_DLC/sturgeon-SH-2025-01-03/videos/(1024)_RecM03_DST20250531_104611_105111_5328818_991E51D.mp4
+  : crop: 0, 1024, 0, 1024
+  /home/hwan236/FishML/P0_data/1_Sturgeon/9_DLC/sturgeon-SH-2025-01-03/videos/T20241025_time_07_merged.mp4:
+    crop: 0, 1024, 0, 1024
+  /home/hwan236/FishML/P0_data/1_Sturgeon/9_DLC/sturgeon-SH-2025-01-03/videos/T20250321_time_03_merged.mp4:
+    crop: 0, 1024, 0, 1024
+  /home/hwan236/FishML/P0_data/1_Sturgeon/9_DLC/sturgeon-SH-2025-01-03/videos/T20250321_time_11_merged.mp4:
+    crop: 0, 1024, 0, 1024
+  /home/hwan236/FishML/P0_data/1_Sturgeon/9_DLC/sturgeon-SH-2025-01-03/videos/T20250531_time_05_merged.mp4:
+    crop: 0, 1024, 0, 1024
+  /home/hwan236/FishML/P0_data/1_Sturgeon/9_DLC/sturgeon-SH-2025-01-03/videos/T20250531_time_15_merged.mp4:
+    crop: 0, 1024, 0, 1024
+  /home/hwan236/FishML/P0_data/1_Sturgeon/9_DLC/sturgeon-SH-2025-01-03/videos/T20250601_time_06_merged.mp4:
+    crop: 0, 1024, 0, 1024
+  /home/hwan236/FishML/P0_data/1_Sturgeon/9_DLC/sturgeon-SH-2025-01-03/videos/T20250601_time_13_merged.mp4:
+    crop: 0, 1024, 0, 1024
+  /home/hwan236/FishML/P0_data/1_Sturgeon/9_DLC/sturgeon-SH-2025-01-03/videos/T20250603_time_15_merged.mp4:
+    crop: 0, 1024, 0, 1024
+  /home/hwan236/FishML/P0_data/1_Sturgeon/9_DLC/sturgeon-SH-2025-01-03/videos/T20250613_time_12_merged.mp4:
+    crop: 0, 1024, 0, 1024
+  /home/hwan236/FishML/P0_data/1_Sturgeon/9_DLC/sturgeon-SH-2025-01-03/videos/T20250614_time_12_merged.mp4:
+    crop: 0, 1024, 0, 1024
+  /home/hwan236/FishML/P0_data/1_Sturgeon/9_DLC/sturgeon-SH-2025-01-03/videos/T20250617_time_02_merged.mp4:
+    crop: 0, 1024, 0, 1024
+  /home/hwan236/FishML/P0_data/1_Sturgeon/9_DLC/sturgeon-SH-2025-01-03/videos/T20250620_time_14_merged.mp4:
+    crop: 0, 1024, 0, 1024
+  /home/hwan236/FishML/P0_data/1_Sturgeon/9_DLC/sturgeon-SH-2025-01-03/videos/T20250702_time_22_merged.mp4:
+    crop: 0, 1024, 0, 1024
+bodyparts:
+- Head1
+- Head2
+- MFC1
+- MFC2
+- MFC3
+- MFC4
+- MFC5
+- Tail1
+- Tail2
+- Tail3
+- Tail4
+start: 0
+stop: 1
+numframes2pick: 11
+skeleton:
+- - Head1
+  - Head2
+- - Head2
+  - MFC1
+- - MFC1
+  - MFC2
+- - MFC2
+  - MFC3
+- - MFC3
+  - MFC4
+- - MFC4
+  - MFC5
+- - MFC5
+  - Tail1
+- - Tail1
+  - Tail2
+- - Tail2
+  - Tail3
+- - Tail3
+  - Tail4
+skeleton_color: black
+pcutoff: 0.6
+dotsize: 8
+alphavalue: 0.7
+colormap: rainbow
+TrainingFraction:
+- 0.95
+iteration: 5
+default_net_type: resnet_152
+default_augmenter: default
+snapshotindex: -1
+batch_size: 8
+cropping: false
+x1: 0
+x2: 640
+y1: 277
+y2: 624
+corner2move2:
+- 50
+- 50
+move2corner: true
+net_type: resnet_152

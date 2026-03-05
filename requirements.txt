@@ -1,0 +1,49 @@
+# Requirements for Fish Movement Analysis Pipeline
+#
+# DLC Training & Inference require GPU + CUDA.
+# Recommended: start from the official DLC conda environment:
+#   conda env create -f DEEPLABCUT.yaml
+#   pip install -r requirements.txt
+#
+# See: https://deeplabcut.github.io/DeepLabCut/docs/installation.html
+
+# === Core DLC ===
+deeplabcut>=2.3.10
+tensorflow>=2.12.0
+torch>=2.4.0
+
+# === Data & Numerical ===
+numpy>=1.23.5
+pandas>=2.2.0
+scipy>=1.14.0
+scikit-learn>=1.5.0
+scikit-image>=0.24.0
+statsmodels>=0.14.0
+
+# === Computer Vision ===
+opencv-python>=4.10.0
+Pillow>=9.0
+imgaug>=0.4.0
+
+# === Visualization ===
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# === Fish Pose Analysis ===
+circle-fit>=0.2.1
+filterpy>=1.4.5
+
+# === File I/O ===
+openpyxl>=3.1.0
+XlsxWriter>=3.2.0
+tables>=3.8.0
+pyyaml>=6.0
+ruamel.yaml>=0.18.0
+
+# === Utilities ===
+tqdm>=4.66.0
+
+# === Optional: TensorRT for accelerated inference ===
+# Install from NVIDIA matching your CUDA version:
+#   pip install tensorrt
+# tensorrt>=10.0
