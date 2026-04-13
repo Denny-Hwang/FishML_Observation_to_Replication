@@ -4,7 +4,7 @@ This repository accompanies the paper:
 
 > **From observation to replication: machine-learning-driven quantification and replication of fine-scale fish kinematics and behavior**
 >
-> Hwang S, Li H, Janak JM, Jung H, Lu Z, Deng ZD (2026) *Ecological Informatics* (submitted)
+> Hwang, S., Li, H., Janak, J.M., Jung, H., Lu, Z., Deng, Z.D. (2026). From observation to replication: machine-learning-driven quantification and replication of fine-scale fish kinematics and behavior. Ecological Informatics. https://doi.org/10.1016/j.ecoinf.2026.103760
 
 A DeepLabCut-based pipeline for fish swimming kinematics analysis. This repository provides end-to-end tools for video preprocessing, pose estimation model training, batch inference, and quantitative movement analysis including body curvature, tail-beat frequency (TBF), swimming speed, and diel activity patterns.
 
